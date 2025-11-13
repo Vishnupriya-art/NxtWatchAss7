@@ -2,6 +2,8 @@ In this project, let's build **Nxt Watch** by applying the concepts we have lear
 
 ### Refer to the videos below:
 
+link: https://trvishnulp374rjscpyqn94.drops.nxtwave.tech/
+
 **Success View** <br/>
 
 <div style="text-align: center;">
